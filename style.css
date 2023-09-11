@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: pink;
+    
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    
+}
+
+h1 {
+    font-size: 24px;
+}
+
+.note-form {
+    margin-top: 20px;
+}
+
+textarea {
+    width: 100%;
+    height: 100px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #3c74af;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+.notes-list {
+    text-align: left;
+}
+
+.note {
+    background-color: #f2f2f2;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+}
